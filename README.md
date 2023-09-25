@@ -33,5 +33,11 @@ before and after using the application.
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image7.png?raw=true)
 
+
+
+
+![image](https://https://github.com/Plznolag/smartCar/blob/master/image7.png?raw=true)
+
+
 總而言之智慧車真的很棒棒!!!!
-123123
+
